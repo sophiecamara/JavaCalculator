@@ -1,0 +1,10 @@
+package javacalculator;
+
+public class math {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
